@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 9442af300d546a644bd94340e110c1ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 131
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b85a4d5597a1e47bfb9486654bc87d
+      internalID: -633842987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 389
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16078968acf07ca448f117b564b2c61d
+      internalID: 918087605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 389
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcb744d9d7a8d9448ba0aa07f267a46
+      internalID: 1248983434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8cd7e2c2d97564c815e090400f4ae3
+      internalID: -236895941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 245
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6775f8dbf3d47a42b21e6687b5f2ae5
+      internalID: 2087934908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 264
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c35671cb9b714fa418c8fe8ca3013
+      internalID: 973400086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 266
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc6860657d6104fb45fc3e25e017f8
+      internalID: 281322561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 266
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e6f56068176c47a4a279e4c67c8e9
+      internalID: 666225133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f3e0996b28a804d882f5d7d35aa9a2
+      internalID: 1651353834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8ed50643e09740a0fac8952bcaa6f
+      internalID: 1527655589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 141
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0a285f2735a34bbd9537983161bec
+      internalID: -321464356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 141
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6cbdb02bd38d41b9ab4484a81de0b
+      internalID: 200200002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3317d2e4ece1774993cb86d3af93341
+      internalID: 1508940393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867e29c846c7984da6adc73d0f6b79b
+      internalID: 1913070944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63545a51817049140ba877b0b0a680fd
+      internalID: 84707405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c979c7536fc5684a8e39823296bd865
+      internalID: 1356831669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_0: -633842987
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_1: 918087605
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_10: -321464356
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_11: 200200002
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_12: 1508940393
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_13: 1913070944
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_14: 84707405
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_15: 1356831669
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_2: 1248983434
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_3: -236895941
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_4: 2087934908
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_5: 973400086
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_6: 281322561
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_7: 666225133
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_8: 1651353834
+      set-blue-buttons-mobile-games-game-interface-cartoon-ui-buttons-set-game-ui-buttons-kit_659713-95-removebg-preview_9: 1527655589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
